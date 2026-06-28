@@ -1,14 +1,13 @@
 # homebrew-tap
 
-Homebrew tap for litedrop.
+Homebrew tap for packages published by pessini.
 
 ```bash
 brew tap pessini/tap
-brew install litedrop
 ```
 
-Or install directly from the tap without adding it first:
+Install a formula directly from the tap:
 
 ```bash
-brew install pessini/tap/litedrop
+brew install pessini/tap/<formula>
 ```
