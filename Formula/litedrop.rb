@@ -1,8 +1,8 @@
 class Litedrop < Formula
   desc "Share markdown and HTML files through links"
   homepage "https://github.com/pessini/litedrop"
-  url "https://registry.npmjs.org/@litedrop/cli/-/cli-0.2.1.tgz"
-  sha256 "3d07d85041517369f95c72ce5ba43f65285d037feaccc581dde230ccb27aa71a"
+  url "https://registry.npmjs.org/@litedrop/cli/-/cli-0.2.2.tgz"
+  sha256 "658b839572c2faa709f5e2130c1a0c15a06686c2a78d205c148078aa5242b94c"
   license "MIT"
 
   depends_on "node"
